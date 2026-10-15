@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Im Josh, currenty taking a Bachelor of Computer Engieering.
 <!--
 **Jwindar/Jwindar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
